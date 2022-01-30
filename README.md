@@ -17,9 +17,11 @@ The line graph I got is as below
 The csv data used here is [city_data.csv](https://github.com/NishatSultana3538/PyBer_Analysis/blob/main/Resources/city_data.csv) & 
 [ride_data.csv](https://github.com/NishatSultana3538/PyBer_Analysis/blob/main/Resources/ride_data.csv)
 
-* How is the district summary affected? District summary data didn't affected much as it only change by average math score by 0.1, passing math percentage by 0.2%, passing reading percentage by 0.1% , overall passing percentage by 0.3%  and Average Reading Score  didn't change . This is expected as the number of student in 9th grade from Thomas High School is low compared to total student in the district. 
-![district-summary-old](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/analysis/District_summary_old.PNG)
-![district-summary-new](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/analysis/District_summary_new.png)
+*  
+![district-summary-old]()
+![district-summary-new]()
+![school_summary]()
+![resampled_dataframe]()
 * How is the school summary affected? After caculation the new school summary math , reading score and math, reading and overall percentage changes slightly.
 ![school_summary](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/analysis/school_summary_old.png)
 ![school_summary_new](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/analysis/school_summary_new.png)
