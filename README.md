@@ -18,10 +18,10 @@ The csv data used here is [city_data.csv](https://github.com/NishatSultana3538/P
 [ride_data.csv](https://github.com/NishatSultana3538/PyBer_Analysis/blob/main/Resources/ride_data.csv)
 
 *  
-![district-summary-old]()
-![district-summary-new]()
-![school_summary]()
-![resampled_dataframe]()
+![PyBer_Summary](https://github.com/NishatSultana3538/PyBer_Analysis/blob/main/analysis/PyBer_Summary_formatted.png)
+![PyBer_fare_summary](https://github.com/NishatSultana3538/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
+![pivot _dataframe](https://github.com/NishatSultana3538/PyBer_Analysis/blob/main/analysis/dataframe_pivot.png)
+![resampled_dataframe](https://github.com/NishatSultana3538/PyBer_Analysis/blob/main/analysis/resampled_dataframe.png)
 * How is the school summary affected? After caculation the new school summary math , reading score and math, reading and overall percentage changes slightly.
 ![school_summary](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/analysis/school_summary_old.png)
 ![school_summary_new](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/analysis/school_summary_new.png)
