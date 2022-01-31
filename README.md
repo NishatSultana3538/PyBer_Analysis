@@ -12,10 +12,6 @@ Using images from the summary DataFrame and multiple-line chart, describe the di
 Here in PyBer analysis project I create a summary DataFrame of the ride-sharing data by city type. Then, using Pandas and Matplotlib, I create a multiple-line graph that shows the total weekly fares for each city type. The code I use to get the line charts  
 [PyBer_Challenge](https://github.com/NishatSultana3538/PyBer_Analysis/blob/main/PyBer_Challenge.ipynb)
 
-The line graph I got is as below
-
-![PyBer-fare_lineg_raph](https://github.com/NishatSultana3538/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
-
  
 The csv data used here is [city_data.csv](https://github.com/NishatSultana3538/PyBer_Analysis/blob/main/Resources/city_data.csv)
  & 
@@ -36,6 +32,11 @@ The dataframe after using pivot functions look like below:
 I create a new DataFrame by applying the resample() function and resample the data in weekly bins, then apply the sum() method to get the total fares for each week the dataframe look like below:
 
 ![resampled_dataframe](https://github.com/NishatSultana3538/PyBer_Analysis/blob/main/analysis/resampled_dataframe.png)
+
+Finally, the line graph I got is as below:
+
+![PyBer-fare_line_graph](https://github.com/NishatSultana3538/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
+
 
 From the above line charts we can see that urban cities has the highest total fares among the city types and rural cities has the lowest total fares among the city types.
 
